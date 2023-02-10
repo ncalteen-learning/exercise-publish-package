@@ -1,3 +1,7 @@
 {
-  "your": "json config here"
+  "name": "@ncalteen-learning/exercise-publish-package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncalteen-learning/exercise-publish-package.git"
+  }
 }
