@@ -1,5 +1,6 @@
 {
   "name": "@ncalteen-learning/exercise-publish-package",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ncalteen-learning/exercise-publish-package.git"
